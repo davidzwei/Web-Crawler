@@ -1,2 +1,2 @@
 # Web-Crawler
-crawler for Youtube, Dcard, PTT, Bahamut animation
+Web Crawler for Youtube, Animation, PTT, Bahamut 
